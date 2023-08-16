@@ -23,5 +23,6 @@ Sou formada em Gestão da Informação e mestra em Ciência da computação. No 
 ###
 
 ### 🌐 Redes Sociais
-![https://urlgeni.us/instagram/9tt1](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://urlgeni.us/instagram/9tt1)
+
 ###
