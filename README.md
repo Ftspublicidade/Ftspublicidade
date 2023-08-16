@@ -21,3 +21,7 @@ Sou formada em Gestão da Informação e mestra em Ciência da computação. No 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ###
+
+### 🌐 Redes Sociais
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://urlgeni.us/instagram/9tt1)
+###
